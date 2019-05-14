@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "566272227518",
+    "firebase_url": "https://pushnotification-fec6b.firebaseio.com",
+    "project_id": "pushnotification-fec6b",
+    "storage_bucket": "pushnotification-fec6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566272227518:android:764d2cb7da3280eb",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566272227518-72vijekb3i2riiak892cnunuugj94d5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA560px92x3K4yTd44IPV8jcqnGVxIiwe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566272227518-72vijekb3i2riiak892cnunuugj94d5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
